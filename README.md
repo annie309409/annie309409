@@ -55,8 +55,6 @@
 ![webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white)
 ![nodejs](https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) -->
-
-#
-
+ 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ec99b4,100:9ad7ec&height=180&section=footer)
 
