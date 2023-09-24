@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ec99b4,100:9ad7ec&height=200&section=header&text=박정아&desc=UI%20Developer%20and%20Teacher&fontSize=32&animation=twinkling&fontColor=ffffff&fontAlign=88&fontAlignY=35&descAlign=80&descAlignY=50)
 
-### 💼 Careers ⚙
+### 💼 Careers 
 - Jobkorea UI 개발 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Cureent-9ad7ec)<br>
 - 삼성SDS 한국총판 UI 개발 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
 - 그린아카데미 웹퍼블리싱 강사 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
@@ -12,7 +12,7 @@
 
 # 
 
-### 🐱‍🏍 Works ✨
+### 🐱‍🏍 Works 
 - Jobkorea TVC Event UI개발<br>
 - Jobkorea Rebranding MicroSite UI개발<br>
 - Jobkorea GNB 개편 및 고도화<br>
@@ -29,8 +29,19 @@
 - 헤어프로덕트 자사몰 기획 및 UI개발 <br>
 - Arnold Palmer golf wear 2011 FW 자사몰 기획 및 UI개발 <br>
   
-  
+#
+###  ✒ Education 
+- 한국교통대학교 식품영양학 학사 
 
+#
+### 🎖certificate 
+- 컴퓨터 활용능력 1급 
+- 웹디자인 기능사 
+
+# 
+### 🛠 Tech Stack 
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,threejs,vue,react,webpack,nodejs,aws,figma)
 <p align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/annie309409/annie309409/output-3d-contrib/night.svg" />
@@ -40,9 +51,8 @@
 </p>
 
 
-# 
-### 🛠 Tech Stack 🔨
-![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,threejs,vue,react,webpack,nodejs,aws,figma)
+
+
 
 <!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
