@@ -1,16 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ec99b4,100:9ad7ec&height=200&section=header&text=박정아&desc=UI%20Developer%20and%20Teacher&fontSize=32&animation=twinkling&fontColor=ffffff&fontAlign=88&fontAlignY=35&descAlign=80&descAlignY=50)
 
-
-<p align="center">
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/annie309409/annie309409/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annie309409/annie309409/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/annie309409/annie309409/output-3d-contrib/day.svg" />
-	</picture>
-</p>
-
-
-
 ### 💼 Careers ⚙
 - Jobkorea UI 개발 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Cureent-9ad7ec)<br>
 - 삼성SDS 한국총판 UI 개발 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
@@ -41,6 +30,16 @@
 - Arnold Palmer golf wear 2011 FW 자사몰 기획 및 UI개발 <br>
   
   
+
+<p align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/annie309409/annie309409/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annie309409/annie309409/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/annie309409/annie309409/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
+
 # 
 ### 🛠 Tech Stack 🔨
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,threejs,vue,react,webpack,nodejs,aws,figma)
