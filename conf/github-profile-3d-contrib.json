@@ -2,7 +2,7 @@
     {
         "type": "normal",
         "fileName": "day.svg",
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "#000000",
         "foregroundColor": "#00000f",
         "strongColor": "#111133",
         "weakColor": "gray",
