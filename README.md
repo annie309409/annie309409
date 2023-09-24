@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ec99b4,100:9ad7ec&height=200&section=header&text=박정아&desc=UI%20Developer%20and%20Teacher&fontSize=32&animation=twinkling&fontColor=ffffff&fontAlign=88&fontAlignY=35&descAlign=80&descAlignY=50)
 
-### 💼 Careers 
+### 💼 Career
 - Jobkorea UI 개발 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Cureent-9ad7ec)<br>
 - 삼성SDS 한국총판 UI 개발 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
 - 그린아카데미 웹퍼블리싱 강사 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
@@ -34,7 +34,7 @@
 - 한국교통대학교 식품영양학 학사 
 
 #
-### 🎖certificate 
+### 🎖Certificate 
 - 컴퓨터 활용능력 1급 
 - 웹디자인 기능사 
 
