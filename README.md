@@ -12,7 +12,7 @@
 
 # 
 
-### 🐱‍🏍 Works 
+### 🚀 Works 
 - Jobkorea TVC Event UI개발<br>
 - Jobkorea Rebranding MicroSite UI개발<br>
 - Jobkorea GNB 개편 및 고도화<br>
